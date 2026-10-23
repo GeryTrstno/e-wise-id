@@ -436,3 +436,16 @@
 .to-top { color: var(--accent); text-decoration: none; }
 @media (max-width: 860px) { .footer-inner { grid-template-columns: repeat(2, minmax(0, 1fr)); } .footer-brand { grid-column: 1 / -1; } }
 @media (max-width: 460px) { .footer-inner { grid-template-columns: 1fr; } }
+
+/* Tim: foto besar di atas kartu */
+.team-2 { max-width: 720px; gap: 24px; }
+.member { padding: 0 0 22px; overflow: hidden; }
+.member .avatar {
+  justify-self: stretch;
+  width: 100%; height: auto; aspect-ratio: 4 / 5;
+  border-radius: 0; border: 0; margin: 0 0 14px;
+  background: linear-gradient(180deg, var(--bg-soft), var(--surface-2));
+  font-size: 2.5rem;
+}
+.member .avatar img { object-fit: cover; object-position: center 12%; transform: scale(1.15); transform-origin: center top; }
+@media (max-width: 520px) { .member { max-width: 320px; width: 100%; margin-inline: auto; } }
