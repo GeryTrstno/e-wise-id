@@ -5,7 +5,7 @@
     nav: { dashboard: "Dashboard", about: "Tentang Kami", demo: "Demo", start: "Mulai →", menu: "Menu", skip: "Lompat ke konten" },
     hero: {
       eyebrow: "K3 · Lingkungan · Industri Tekstil",
-      title: 'Satu dashboard untuk preventive maintenance dan <span class="hl">fiber loss</span> di lantai produksi.',
+      title: 'Satu dashboard untuk paparan pekerja dan <span class="hl">fiber loss</span> di lantai produksi.',
       sub: "E-WISE menyatukan data sensor zona napas, kepatuhan APD dari kamera, catatan inspeksi HSE, dan berat limbah serat menjadi satu skor risiko per area dan per shift.",
       ctaStart: "Mulai →",
       ctaDemo: "Lihat Demo",
@@ -163,7 +163,7 @@
     nav: { dashboard: "Dashboard", about: "About Us", demo: "Demo", start: "Start →", menu: "Menu", skip: "Skip to content" },
     hero: {
       eyebrow: "OHS · Environment · Textile Industry",
-      title: 'One dashboard for preventive maintenance and <span class="hl">fiber loss</span> on the production floor.',
+      title: 'One dashboard for worker exposure and <span class="hl">fiber loss</span> on the production floor.',
       sub: "E-WISE combines breathing-zone sensor data, camera-based PPE compliance, HSE inspection notes, and fiber waste weight into one risk score per area and per shift.",
       ctaStart: "Start →",
       ctaDemo: "See Demo",
